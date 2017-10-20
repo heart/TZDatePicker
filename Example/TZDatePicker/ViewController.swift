@@ -37,6 +37,7 @@ class ViewController: UIViewController {
         let datePicker = TZDatePicker(dateComponents: dateComponents)
         datePicker.onValueChanged = {
             dateComponents in
+            dateComponents
             self.updateLabel(dateComponents)
         }
         updateLabel(dateComponents)

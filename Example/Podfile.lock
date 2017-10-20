@@ -1,5 +1,5 @@
 PODS:
-  - TZDatePicker (1.0.0)
+  - TZDatePicker (1.0.1)
 
 DEPENDENCIES:
   - TZDatePicker (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: ../
 
 SPEC CHECKSUMS:
-  TZDatePicker: f52685bd978b8c52f5b61a0b806a97d13fb6050d
+  TZDatePicker: 9496a92a8e2637ba99b1b4286557d6fa3f67633b
 
 PODFILE CHECKSUM: 6a2f33b86c79e3d3eb5099777e29c70d610daab8
 
